@@ -1,4 +1,4 @@
-name: jackieomykonos
+name: "JackieO' Beach"
 favicon: null
 layout_spectrum: 0.24501
 typography_spectrum: 0.10871
@@ -22,7 +22,7 @@ color:
     - '#378afc'
     - '#ffd296'
   brandStrength: 0.6875
-  lightness: 0.08274056226946414
-  saturation: 0.7167982845567167
+  lightness: 0.1875
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
