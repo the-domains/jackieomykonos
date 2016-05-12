@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: THE SKY IS YOURS
-datePublished: '2016-05-12T06:24:10.431Z'
-dateModified: '2016-05-12T06:22:08.841Z'
-title: ''
-author: []
+datePublished: '2016-05-12T06:36:05.963Z'
+dateModified: '2016-05-12T06:35:48.063Z'
+title: Main picture
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
   name: null
@@ -24,12 +26,13 @@ _type: Article
 THE SKY IS YOURS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a334fff-9dcd-442a-9b62-fee0188c54b0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09db032a-3fcc-4b24-8d1a-271a53a8c7cc.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e448a469-900d-404b-9db5-c888d7e2da9e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d251035dff97191ffdb47af29d52618e50e8839a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f13a44-00cb-4f07-a226-0dbae488d88c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ca6bfec-aa48-47eb-8423-edfa5b2d74df.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5a8cc85-3203-4004-b63b-c8d5961e8282.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3931b049-c809-43a2-95cb-7b8967d55d41.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa7b6b5b-b65d-4c72-860c-9403189bbbf5.jpg)
+
+  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/735e64e1-0c19-415b-b431-63d53c634ea4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdc43b0d-fac8-41ad-94b5-5611173a201b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/176c0848-e861-454d-821e-61bb0e6a950e.jpg)
