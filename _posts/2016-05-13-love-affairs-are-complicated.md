@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Love affairs are complicated!We don‘t remember when we first fell in love with the light, the color of the sea, the rocks and bareness of this island, but it changed our lives. Everything here has clarity, light, history, shape and form given by the elements. We love to travel, and like you, we look for the unique and unspoiled qualities of our destinations, expect excellent service, honesty and experiencing of the local flair '
-datePublished: '2016-05-13T07:58:36.806Z'
-dateModified: '2016-05-13T07:55:48.468Z'
+datePublished: '2016-05-13T08:03:09.853Z'
+dateModified: '2016-05-13T08:01:37.299Z'
 title: ''
 author:
   - name: ''
