@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Meditterranean Fusion menu with many new Mykonian '
-datePublished: '2016-05-13T07:49:17.525Z'
-dateModified: '2016-05-13T07:48:39.540Z'
+datePublished: '2016-05-13T07:49:49.484Z'
+dateModified: '2016-05-13T07:49:19.559Z'
 title: ''
 author: []
 authors: []
@@ -25,6 +25,6 @@ _type: Article
 
 The Meditterranean Fusion menu with many new Mykonian 
 
-flavors created by the acclaimed greek chef Christoforos Peskias and
+flavors created by the acclaimed Greek chef Christoforos Peskias.
 
-operating all day for lunch and dinner from 10am-1am.
+Operating all day for lunch and dinner from 10am-1am.
