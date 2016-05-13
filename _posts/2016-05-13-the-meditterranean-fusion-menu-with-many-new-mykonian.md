@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Meditterranean Fusion menu with many new Mykonian '
-datePublished: '2016-05-13T07:49:49.484Z'
-dateModified: '2016-05-13T07:49:19.559Z'
+datePublished: '2016-05-13T07:57:45.096Z'
+dateModified: '2016-05-13T07:51:24.603Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-13-the-meditterranean-fusion-menu-with-many-new-mykonian.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-13-the-meditterranean-fusion-menu-with-many-new-mykonian.md
 url: the-meditterranean-fusion-menu-with-many-new-mykonian/index.html
 _type: Article
 
