@@ -1,5 +1,7 @@
-favicon: null
-name: "JackieO' Beach"
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,8 +20,8 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.9375
-  brandStrength: 0.8357228
+  saturation: 0
+  brandStrength: 0.7879331
   lightness: 0
   brandColors:
     - '#31211f'
@@ -27,14 +29,12 @@ color:
     - '#e38e6c'
     - '#378afc'
     - '#ffd296'
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 typography_spectrum: 0.47627
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.46764
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.9121863
+favicon: null
+name: "JackieO' Beach"
