@@ -4,7 +4,7 @@
         <description><![CDATA[JackieO' Beach]]></description>
         <link>https://thegrid.ai/jackieomykonos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 10:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 10:15:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jackieomykonos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Love affairs are complicated! ]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/jackieomykonos/the-meditterranean-fusion-menu-with-many-new-mykonian/index.html</link>
             <guid isPermaLink="false">83e2c9e1-0f9c-4704-aea0-c64755bf06bd</guid>
             <pubDate>Fri, 13 May 2016 08:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8c4d17f-3f3d-41bc-bf3f-b42168b1b71e.jpg">]]></description>
+            <link>https://thegrid.ai/jackieomykonos/mykita/index.html</link>
+            <guid isPermaLink="false">3c9907e1-2f39-4fe9-8e30-d0b8a582b452</guid>
+            <pubDate>Sat, 14 May 2016 10:15:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
