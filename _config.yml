@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: "JackieO' Beach"
+favicon: null
+layout_spectrum: 0.9121863
+typography_spectrum: 0.47627
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.7879331
-  lightness: 0
   brandColors:
     - '#31211f'
     - '#ffffff'
     - '#e38e6c'
     - '#378afc'
     - '#ffd296'
-  rhythmicContrast: 0
-typography_spectrum: 0.47627
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.9121863
-favicon: null
-name: "JackieO' Beach"
+  brandStrength: 0.7879331
+  lightness: 0.3125
+  saturation: 0.75
+  rhythmicContrast: 0.75
+purpose: []
