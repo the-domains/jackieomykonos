@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Mediterranean Fusion menu with Mykonian flavor created by acclaimed Greek chef Christoforos Peskias. '
-datePublished: '2016-05-13T08:00:40.098Z'
-dateModified: '2016-05-13T08:00:39.473Z'
+datePublished: '2016-05-15T12:06:55.385Z'
+dateModified: '2016-05-15T12:06:52.151Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-the-meditterranean-fusion-menu-with-many-new-mykonian.md
