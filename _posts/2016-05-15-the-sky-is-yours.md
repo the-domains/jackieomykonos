@@ -1,26 +1,26 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: ' SMILE TO THE WORLD'
-datePublished: '2016-05-15T11:53:17.206Z'
-dateModified: '2016-05-14T10:19:06.578Z'
+description: ''
+datePublished: '2016-05-18T07:50:29.416Z'
+dateModified: '2016-05-15T12:03:03.712Z'
+title: THE SKY IS YOURS
+author: []
+sourcePath: _posts/2016-05-15-the-sky-is-yours.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: THE SKY IS YOURS
-author: []
-starred: false
-sourcePath: _posts/2016-05-15-the-sky-is-yours.md
-url: the-sky-is-yours/index.html
-_type: Article
+starred: true
+_type: Blurb
 
 ---
 # THE SKY IS YOURS
 
-SMILE TO THE WORLD
+## SMILE TO THE WORLD
