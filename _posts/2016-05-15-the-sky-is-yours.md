@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T07:50:29.416Z'
-dateModified: '2016-05-15T12:03:03.712Z'
-title: THE SKY IS YOURS
+datePublished: '2016-05-18T07:51:38.676Z'
+dateModified: '2016-05-18T07:51:34.162Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-05-15-the-sky-is-yours.md
 authors: []
@@ -21,6 +21,6 @@ starred: true
 _type: Blurb
 
 ---
-# THE SKY IS YOURS
+# 
 
 ## SMILE TO THE WORLD
