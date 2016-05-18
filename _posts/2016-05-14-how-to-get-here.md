@@ -5,11 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T07:53:46.268Z'
-dateModified: '2016-05-18T07:53:32.315Z'
+datePublished: '2016-05-18T07:54:33.313Z'
+dateModified: '2016-05-18T07:53:47.954Z'
 author: []
 sourcePath: _posts/2016-05-14-how-to-get-here.md
-title: ' '
+title: ''
 authors: []
 publisher:
   name: null
