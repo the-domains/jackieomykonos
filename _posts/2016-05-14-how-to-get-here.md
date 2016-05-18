@@ -5,11 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T07:40:43.294Z'
-dateModified: '2016-05-18T07:40:39.423Z'
+datePublished: '2016-05-18T07:43:59.237Z'
+dateModified: '2016-05-18T07:43:33.332Z'
 author: []
 sourcePath: _posts/2016-05-14-how-to-get-here.md
-title: Driving. Follow the road from Karamanlis roundabout to the airport.
+title: 'D I R E C T I O N S '
 authors: []
 publisher:
   name: null
@@ -21,7 +21,9 @@ url: driving-follow-the-road-from-karamanlis-roundabout-to-the-a/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be94e2b-bf21-4c43-bf08-1a2c5e031021.jpg)
+## D I R E C T I O N S 
+
+## 
 
 ## Driving. Follow the road from Karamanlis roundabout to the airport.
 
@@ -30,6 +32,7 @@ _type: Article
 ## Boat. local wooden caique from Ornos, please check the local timetable at Ornos beach
 
 ## WATER TAXI , YACHT AND RIB-RENTALS BY LO YACHTING & LO-RIB
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be94e2b-bf21-4c43-bf08-1a2c5e031021.jpg)
 
 ## Hotel Transfer (Please call us to arrange a hotel pick up)
 
