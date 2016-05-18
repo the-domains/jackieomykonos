@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T07:43:59.237Z'
-dateModified: '2016-05-18T07:43:33.332Z'
+datePublished: '2016-05-18T07:46:37.002Z'
+dateModified: '2016-05-18T07:46:15.879Z'
 author: []
 sourcePath: _posts/2016-05-14-how-to-get-here.md
 title: 'D I R E C T I O N S '
@@ -23,9 +23,7 @@ _type: Article
 ---
 ## D I R E C T I O N S 
 
-## 
-
-## Driving. Follow the road from Karamanlis roundabout to the airport.
+## Driving. From Karamanlis roundabout to the airport.
 
 ## Follow Jackie'O signs to the right side of Super Paradise beach. Free valet parking available
 
