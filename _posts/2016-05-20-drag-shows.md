@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: DRAG SHOWS
-datePublished: '2016-05-20T11:01:00.860Z'
-dateModified: '2016-05-20T11:00:50.234Z'
+datePublished: '2016-05-20T11:05:11.643Z'
+dateModified: '2016-05-20T11:04:59.786Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-05-20-drag-shows.md
+starred: true
 url: drag-shows/index.html
 _type: WebPage
 
