@@ -1,4 +1,4 @@
-title: "JACKIEO' BEACH"
+title: JACKIEO' BEACH
 purpose: []
 collections:
   - index:
@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5143339
   brandStrength: 0.875
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: "JackieO' Beach"
 favicon: null
+name: JackieO' Beach
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.52442
-layout_spectrum: 0.6326165
+layout_spectrum: 0.9074073
